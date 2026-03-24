@@ -1,15 +1,13 @@
+
 # How to Scrape Google reCAPTCHA-Protected Websites with Python
+ 
 
-## 🚀 Sponsored
+### 🎯 Join Scravity Now !
+### ✔ Free credits  
+✔ Priority access  
+✔ Early features
+### 👉 [https://scravity.com/join](https://scravity.com/join)
 
-This project is proudly supported by our partners.
-
-We’re excited to announce that something new is coming soon! 🎉  
-Join us early and be part of the journey:
-
-👉 **https://scravity.com/join**
-
-**Launch coming soon — stay tuned!**
 
 In this tutorial, you'll learn how to solve **Google reCAPTCHA puzzles** using Python completely free ✅
 -   No third-party services.
@@ -248,7 +246,7 @@ Or create it manually in your project directory. 📂
 
 ### 🔽 Download the Modified reCAPTCHA Solver Extension
 
-Head over to my GitHub repository to download the extension: 👉 **[GitHub Repo Link]**
+Head over to my GitHub repository to download the extension: 👉 **[ https://github.com/dx-bear/reCAPTCHA-solver ]**
 You have two options:
 
 **Option 1 — Download the extension only 📦**
