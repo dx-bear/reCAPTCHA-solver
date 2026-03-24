@@ -3,7 +3,7 @@
  
 
 ### 🎯 Join Scravity Now !
-### ✔ Free credits  
+✔ Free credits  
 ✔ Priority access  
 ✔ Early features
 ### 👉 [https://scravity.com/join](https://scravity.com/join)
